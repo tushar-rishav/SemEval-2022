@@ -1,0 +1,5 @@
+simpletransformers
+tensorboardx
+torch
+torchvision
+pandas
